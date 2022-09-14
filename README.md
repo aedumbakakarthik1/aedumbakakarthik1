@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AEDUMBAKA KARTHIK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DATA SCIENTIST from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aedumbakakarthik1&label=Profile%20views&color=0e75b6&style=flat" alt="aedumbakakarthik1" /> </p>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
