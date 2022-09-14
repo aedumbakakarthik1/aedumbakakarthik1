@@ -19,7 +19,7 @@
 
 
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aedumbakakarthik1.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=aedumbakakarthik1&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/aedumbakakarthik1/github-readme-activity-graph)
