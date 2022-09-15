@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aedumbakakarthik1&label=Profile%20views&color=0e75b6&style=flat" alt="aedumbakakarthik1" /> </p>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
 
-- 🔭 I’m currently working on **COGNIZANT**
+- 🔭 I’m currently working at **COGNIZANT**
 
 - 🌱 I’m currently learning **MACHINE LEARNING AND DEEP LEARNING**
 
